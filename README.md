@@ -1,39 +1,39 @@
-# Welcome to Salvador's Comedic Code Adventure! 🎉
+# Welcome to Salvador's Epic Code Adventure! 🎉
 
 ## About Me
 
-🤡 Hey there, I'm Salvador, the Chief Code Jester and Information Systems Engineering student at UTN Regional Buenos Aires! 🎓 I'm on a mission to infuse laughter into every line of code I write. Currently, I'm hard at work on three mysterious websites for UTN, sprinkling them with humor and whimsy. 💻🎭
+🤡 Hey there, I'm Salvador, the Chief Code Jester and a student of Information Systems Engineering at UTN Regional Buenos Aires! 🎓 My mission is to turn code into laughter and make the world of programming a fun-filled circus. Hold on tight, because unexpected '{' on line 32 is just the beginning of the show! 🌹💙😄
 
 ## Projects
 
-🚀 Step right up and get ready for a wild ride! Here are some of my incredible ongoing projects:
+🚀 Step right up and witness my extraordinary UTN projects:
 
-- Project 1: Join me on an interactive journey of coding brilliance and comic chaos! You won't believe your eyes as Bootstrap, Selenium, and Symfony combine forces to create a web experience like no other. 🌟
-- Project 2: Prepare for a rollercoaster of laughter and innovation as Python, PHP, and JavaScript dance harmoniously in this captivating digital masterpiece. Hold on tight, the unexpected '{' may appear at any moment! 🎢
-- Project 3: Brace yourself for an adventure beyond imagination, where creativity knows no bounds. Witness the magic of code as it transforms into a whimsical symphony, showcasing my skills in Python, PHP, and JavaScript. 🎩✨
+- Project 1: Embark on a wild ride as Python, PHP, and JavaScript perform daring tricks in the digital realm. It's like a magic show, where Bootstrap, Selenium, and Symfony create astonishing illusions! 🎩✨
+- Project 2: Join me on a hilarious journey through web development, where unexpected surprises await at every corner. Brace yourself for laughter-induced bugs and mind-blowing comedy with code! 🌟🤣
+- Project 3: Prepare to be amazed by the symphony of creativity as Python, PHP, and JavaScript harmonize perfectly, showcasing the beauty of coding in all its comedic glory. 🎶🎭
 
 ## Skills
 
-💻 Behold, the weapons of hilarity I possess:
+💻 Behold, the magical skills I possess:
 
-- Programming Languages: Python, PHP, JavaScript are my chosen tools to conquer the coding universe. I speak their language fluently, with a twist of laughter and a dash of mischief. 🐍💥
-- Framework Mastery: I navigate the realms of Bootstrap, Selenium, and Symfony with finesse, transforming mundane websites into extraordinary experiences. Expect the unexpected, just like an unexpected '{' on line 32! 🌹💙😄
+- Programming Languages: Python, PHP, and JavaScript are my enchanted instruments. I can make them dance, sing, and even crack a joke or two! 🐍💥😂
+- Framework Wizardry: With Bootstrap, Selenium, and Symfony, I can turn any website into a laughter-filled extravaganza. Get ready to be entertained like never before! 🌈🤹‍♂️
 
 ## Statistics and Most Used Languages
 
-![Salvador's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=radical)
+![Salvador's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 Here are the most used languages in my repositories:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## Connect with Me
 
-🌐 Ready to join the comedic coding adventure? Reach out to me for potential jobs or just a good laugh:
+🌐 Ready for a thrilling coding adventure? Reach out to me for potential jobs or just to share a laugh:
 
-- Email: Drop me a line at salvacastro06@gmail.com, and let's discuss how we can create magic together! 📧✨
-- Instagram: Follow my clowning escapades on [Instagram](https://www.instagram.com/salvacastrook/) for hilarious coding sketches and behind-the-scenes fun. 📸🤡
-- LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/salvador-castro95/) to explore exciting job opportunities and witness the fusion of comedy and technology. 👔😂
-- Twitter: Join me on [Twitter](https://twitter.com/salva_castro95) for a daily dose of programming humor, witty one-liners, and updates on my coding adventures. 🐦🎭
+- Email: Drop me a line at salvacastro06@gmail.com, and let's discuss how we can add more fun and laughter to the world of coding! 📧🎪
+- Instagram: Follow my coding comedy sketches and hilarious adventures on [Instagram](https://www.instagram.com/salvacastrook/). Expect programming puns, funny memes, and behind-the-scenes laughs. 📸🤡
+- LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/salvador-castro95/) for exciting job opportunities, networking, and a sprinkle of coding humor. Let's turn the professional world into a big top of laughter! 👔😂
+- Twitter: Join me on [Twitter](https://twitter.com/salva_castro95) for daily doses of coding jokes, witty banter, and updates on my hilarious coding endeavors. Let's make coding fun, one tweet at a time! 🐦🎉
 
-Remember, laughter and coding go hand in hand! Let's create a world where programming is as entertaining as a circus act. Step right up, and let the comedy begin! 🎪😄
+Remember, coding is an adventure, and laughter is the best companion! Let's create a world where programming is a circus of joy and imagination. Step right up, and let the laughter begin! 🎪😄
