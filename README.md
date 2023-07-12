@@ -21,11 +21,11 @@
 
 ## Statistics and Most Used Languages
 
-![Salvador's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Salvador's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=radical)
 
 Here are the most used languages in my repositories:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact&theme=radical)
 
 ## Connect with Me
 
