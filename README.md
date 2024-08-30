@@ -2,7 +2,7 @@
 
 ## About Me
 
-🤡 Hey there, I'm Salvador, the Chief Code Jester and a student of Information Systems Engineering at UTN Regional Buenos Aires! 🎓 My mission is to turn code into laughter and make the world of programming a fun-filled circus. Hold on tight, because unexpected '{' on line 32 is just the beginning of the show! 🌹💙😄
+🤡 I’m Salvador, a student of Information Systems Engineering at UTN Regional Buenos Aires. My focus is on creating efficient and innovative code while maintaining a passion for continuous learning and problem-solving. I'm dedicated to contributing to projects that blend creativity with technical excellence, ensuring robust and scalable solutions. Let's explore new possibilities in the world of programming together. 🌹💙😄
 
 ## Projects
 
