@@ -1,39 +1,58 @@
-# Welcome to Salvador's Epic Code Adventure! 🎉
+# 🚀 Welcome to Salvador's Epic Code Adventure! 🎭💻
 
 ## About Me
 
-🤡 I’m Salvador, a student of Information Systems Engineering at UTN Regional Buenos Aires. My focus is on creating efficient and innovative code while maintaining a passion for continuous learning and problem-solving. I'm dedicated to contributing to projects that blend creativity with technical excellence, ensuring robust and scalable solutions. Let's explore new possibilities in the world of programming together. 🌹💙😄
+Hey there! I'm **Salvador**, an Information Systems Engineering student at UTN Regional Buenos Aires. I'm passionate about writing efficient and scalable code, blending creativity with logic to build innovative solutions. My main programming languages are **PHP** and **Python**, along with their most powerful frameworks and libraries.
 
-## Projects
+If code could tell jokes, mine would be a stand-up comedy act. 😆 But since it can't, I make sure it's clean, optimized, and well-documented.
 
-🚀 Step right up and witness my extraordinary UTN projects:
+---
 
-- Project 1: Embark on a wild ride as Python, PHP, and JavaScript perform daring tricks in the digital realm. It's like a magic show, where Bootstrap, Selenium, and Symfony create astonishing illusions! 🎩✨
-- Project 2: Join me on a hilarious journey through web development, where unexpected surprises await at every corner. Brace yourself for laughter-induced bugs and mind-blowing comedy with code! 🌟🤣
-- Project 3: Prepare to be amazed by the symphony of creativity as Python, PHP, and JavaScript harmonize perfectly, showcasing the beauty of coding in all its comedic glory. 🎶🎭
+## 🏗️ Projects
 
-## Skills
+Here are some of my most epic projects:
 
-💻 Behold, the magical skills I possess:
+- **💡 Project 1**: A performance where **PHP, Python, and JavaScript** join forces with **Bootstrap, Selenium, and Symfony** to create an innovative and functional solution. 🎩✨
+- **🎭 Project 2**: Web development with a touch of humor. Join me on this coding journey where every bug is a joke waiting to be told. 🌟🤣
+- **🎶 Project 3**: Applications that blend the power of **Laravel, Flask, and Django** to create pure magic in every line of code. 🎵✨
 
-- Programming Languages: Python, PHP, and JavaScript are my enchanted instruments. I can make them dance, sing, and even crack a joke or two! 🐍💥😂
-- Framework Wizardry: With Bootstrap, Selenium, and Symfony, I can turn any website into a laughter-filled extravaganza. Get ready to be entertained like never before! 🌈🤹‍♂️
+(More details coming soon in my portfolio...)
 
-## Statistics and Most Used Languages
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages:
+- **PHP** (Laravel, Symfony)
+- **Python** (Flask, Django, Selenium)
+- **JavaScript** (Vanilla, jQuery, some Vue and React)
+
+### 🔧 Frameworks & Tools:
+- **Frontend**: Bootstrap, TailwindCSS, HTML5, CSS3
+- **Backend**: Laravel, Flask, Django, REST APIs
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Automation**: Selenium, Scrapy
+- **Version Control**: Git & GitHub
+
+---
+
+## 📊 GitHub Stats & Most Used Languages
 
 ![Salvador's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=radical)
 
-Here are the most used languages in my repositories:
+📌 **Most used languages in my repositories:**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact&theme=radical)
 
-## Connect with Me
+---
 
-🌐 Ready for a thrilling coding adventure? Reach out to me for potential jobs or just to share a laugh:
+## 🤝 Connect with Me
 
-- Email: Drop me a line at salvacastro06@gmail.com, and let's discuss how we can add more fun and laughter to the world of coding! 📧🎪
-- Instagram: Follow my coding comedy sketches and hilarious adventures on [Instagram](https://www.instagram.com/salvacastrook/). Expect programming puns, funny memes, and behind-the-scenes laughs. 📸🤡
-- LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/salvador-castro95/) for exciting job opportunities, networking, and a sprinkle of coding humor. Let's turn the professional world into a big top of laughter! 👔😂
-- Twitter: Join me on [Twitter](https://twitter.com/salva_castro95) for daily doses of coding jokes, witty banter, and updates on my hilarious coding endeavors. Let's make coding fun, one tweet at a time! 🐦🎉
+Ready to collaborate on a project or just share a programming joke? Reach out to me!
 
-Remember, coding is an adventure, and laughter is the best companion! Let's create a world where programming is a circus of joy and imagination. Step right up, and let the laughter begin! 🎪😄
+- **📧 Email:** [salvacastro06@gmail.com](mailto:salvacastro06@gmail.com) 📩
+- **💼 LinkedIn:** [Salvador Castro](https://www.linkedin.com/in/salvador-castro95/) 🚀
+
+---
+
+### 💡 "Well-written code not only works but also makes you smile." 😄
