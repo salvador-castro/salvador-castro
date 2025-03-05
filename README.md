@@ -42,7 +42,7 @@ Here are some of my most epic projects:
 
 📌 **Most used languages in my repositories:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact&bg_color=00000000)
 
 ---
 
