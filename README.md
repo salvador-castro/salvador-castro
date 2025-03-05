@@ -38,7 +38,7 @@ Here are some of my most epic projects:
 
 ## 📊 GitHub Stats & Most Used Languages
 
-![Salvador's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=radical&cache_seconds=1800)
+![Salvador Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=transparent)
 
 📌 **Most used languages in my repositories:**
 
