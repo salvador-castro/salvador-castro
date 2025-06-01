@@ -52,6 +52,7 @@ Ready to collaborate on a project or just share a programming joke? Reach out to
 
 - **📧 Email:** [salvacastro06@gmail.com](mailto:salvacastro06@gmail.com) 📩
 - **💼 LinkedIn:** [Salvador Castro](https://www.linkedin.com/in/salvador-castro95/) 🚀
+- **📺 YouTube:** [Canal Salva Castro](https://www.youtube.com/@salva.castro) 📺
 
 ---
 
