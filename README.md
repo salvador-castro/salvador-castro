@@ -63,11 +63,11 @@ Hey there! I'm **Salvador**, an **Information Systems Engineering** student at *
 
 <div align="center">
 
-![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvador-castro&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;text_color=C9D1D9)
+![Salvador's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=salvador-castro&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salvador-castro&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=F85D7F&amp;ring=F8D866&amp;fire=F85D7F&amp;currStreakLabel=F8D866)
+![GitHub Streak](https://streak-stats.demolab.com/?user=salvador-castro&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=F85D7F&amp;ring=F8D866&amp;fire=F85D7F&amp;currStreakLabel=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;text_color=C9D1D9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salvador-castro&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;text_color=C9D1D9)
 
 </div>
 
