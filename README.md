@@ -1,59 +1,135 @@
-# 🚀 Welcome to Salvador's Epic Code Adventure! 🎭💻
+<div align="center">
 
-## About Me
+# � Hi, I'm Salvador Castro!
 
-Hey there! I'm **Salvador**, an Information Systems Engineering student at UTN Regional Buenos Aires. I'm passionate about writing efficient and scalable code, blending creativity with logic to build innovative solutions. My main programming languages are **PHP** and **Python**, along with their most powerful frameworks and libraries.
+### 💻 Full-Stack Developer | 🎓 Information Systems Engineering Student | 🚀 Tech Enthusiast
 
-If code could tell jokes, mine would be a stand-up comedy act. 😆 But since it can't, I make sure it's clean, optimized, and well-documented.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-castro95/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@salva.castro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvacastro06@gmail.com)
 
----
-
-## 🏗️ Projects
-
-Here are some of my most epic projects:
-
-- **💡 Project 1**: A performance where **PHP, Python, and JavaScript** join forces with **Bootstrap, Selenium, and Symfony** to create an innovative and functional solution. 🎩✨
-- **🎭 Project 2**: Web development with a touch of humor. Join me on this coding journey where every bug is a joke waiting to be told. 🌟🤣
-- **🎶 Project 3**: Applications that blend the power of **Laravel, Flask, and Django** to create pure magic in every line of code. 🎵✨
-
-(More details coming soon in my portfolio...)
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 About Me
 
-### 💻 Programming Languages:
-- **PHP** (Laravel, Symfony)
-- **Python** (Flask, Django, Selenium)
-- **JavaScript** (Vanilla, jQuery, some Vue and React)
+Hey there! I'm **Salvador**, an **Information Systems Engineering** student at **UTN Regional Buenos Aires**. I'm passionate about building **scalable, efficient, and innovative solutions** that blend creativity with solid engineering principles.
 
-### 🔧 Frameworks & Tools:
-- **Frontend**: Bootstrap, TailwindCSS, HTML5, CSS3
-- **Backend**: Laravel, Flask, Django, REST APIs
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Automation**: Selenium, Scrapy
-- **Version Control**: Git & GitHub
+💡 **My Philosophy:** Code should be clean, optimized, and well-documented. If it doesn't make you smile when you read it, it needs refactoring! 😄
+
+� **Currently exploring:** Modern web architectures, automation workflows, and crafting seamless user experiences.
 
 ---
 
-## 📊 GitHub Stats & Most Used Languages
+## 🛠️ Tech Stack
 
-![Salvador Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=transparent)
+### **Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-📌 **Most used languages in my repositories:**
+### **Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact&bg_color=00000000)
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Statistics
 
-Ready to collaborate on a project or just share a programming joke? Reach out to me!
+<div align="center">
 
-- **📧 Email:** [salvacastro06@gmail.com](mailto:salvacastro06@gmail.com) 📩
-- **💼 LinkedIn:** [Salvador Castro](https://www.linkedin.com/in/salvador-castro95/) 🚀
-- **📺 YouTube:** [Canal Salva Castro](https://www.youtube.com/@salva.castro) 📺
+![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvador-castro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salvador-castro&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salvador-castro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
+
+</div>
 
 ---
 
-### 💡 "Well-written code not only works but also makes you smile." 😄
+## 🏆 Featured Projects
+
+### 🌟 [ArenaApp](https://github.com/salvador-castro/arenaapp)
+A comprehensive PWA platform for discovering cultural venues including galleries, museums, restaurants, and bars. Built with **Next.js**, **TypeScript**, **TailwindCSS**, and **PostgreSQL**.
+
+**Features:**
+- 📱 Progressive Web App with offline capabilities
+- 🗺️ Interactive location-based discovery
+- 🎨 Modern, responsive UI with dark mode
+- 🔐 Admin dashboard for content management
+
+### 🤖 [WhatsApp Group Creator Bot](https://github.com/salvador-castro/whatsapp-group-creator-bot)
+An automation tool built with **Python** and **Selenium** to streamline WhatsApp group creation and management.
+
+**Highlights:**
+- � Automated group creation from CSV data
+- 📊 Bulk contact management
+- ⚙️ Configurable workflows
+
+### 🎯 [Plugin Agency Website](https://github.com/salvador-castro/plugin-agency)
+A modern, responsive agency portfolio website showcasing creative work and services.
+
+**Tech Stack:**
+- ⚡ Built with **Next.js** and **TypeScript**
+- 🎨 Styled with **TailwindCSS**
+- 📱 Fully responsive design
+- 🌐 Multilingual support (ES/EN)
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔨 Enhancing ArenaApp with advanced filtering and recommendation features
+- � Deepening knowledge in **microservices architecture** and **cloud deployment**
+- 🤖 Exploring **AI integrations** for automation workflows
+- 🌱 Contributing to open-source projects
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing tech, or just chatting about code! Feel free to reach out:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-castro95/)
+[![Email](https://img.shields.io/badge/Email-salvacastro06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvacastro06@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@salva.castro)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Well-written code not only works but also makes you smile."* 😄
+
+![Profile Views](https://komarev.com/ghpvc/?username=salvador-castro&color=blueviolet&style=for-the-badge)
+
+</div>
