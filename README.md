@@ -65,7 +65,7 @@ Hey there! I'm **Salvador**, an **Information Systems Engineering** student at *
 
 ![Salvador's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=salvador-castro&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;text_color=C9D1D9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=salvador-castro&amp;theme=radical)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=salvador-castro&amp;theme=radical) -->
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salvador-castro&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;text_color=C9D1D9)
 
