@@ -1,6 +1,6 @@
 <div align="center">
 
-# � Hi, I'm Salvador Castro!
+# 👋 Hi, I'm Salvador Castro!
 
 ### 💻 Full-Stack Developer | 🎓 Information Systems Engineering Student | 🚀 Tech Enthusiast
 
