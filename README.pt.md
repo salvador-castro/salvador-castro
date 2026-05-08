@@ -83,7 +83,7 @@ Plataforma e-commerce completa para um açougue argentino, com pedidos online, c
 - 📦 Gestão de produtos e pedidos
 - 📱 Design responsivo otimizado para mobile
 
-### 🌟 [ArenaApp](https://github.com/salvador-castro/arenaapp)
+### 🌟 [ArenaApp](https://github.com/salvador-castro/arenaapp) — [Demo ao vivo](https://arenapress.app/)
 Plataforma PWA abrangente para descobrir espaços culturais: galerias, museus, restaurantes e bares. Construída com **Next.js**, **TypeScript**, **TailwindCSS** e **PostgreSQL**.
 
 **Recursos:**
@@ -92,15 +92,16 @@ Plataforma PWA abrangente para descobrir espaços culturais: galerias, museus, r
 - 🎨 UI moderna e responsiva com modo escuro
 - 🔐 Painel de administração para gestão de conteúdo
 
-### 🤖 [WhatsApp Group Creator Bot](https://github.com/salvador-castro/whatsapp-group-creator-bot)
-Ferramenta de automação construída com **Python** e **Selenium** para agilizar a criação e gestão de grupos do WhatsApp.
+### 🟠 [Be Orange](https://github.com/salvador-castro/beorange) — [Demo ao vivo](https://beorange.uy/)
+Landing page oficial de **Be Orange — The Bitcoiners Meeting 2026**, o primeiro encontro bitcoiner em larga escala no Uruguai, apresentado por Roderich e Plugin Agency.
 
 **Destaques:**
-- 🚀 Criação automatizada de grupos a partir de dados CSV
-- 📊 Gestão em massa de contatos
-- ⚙️ Fluxos configuráveis
+- 🎬 Hero fullscreen imersivo com vídeo, countdown e CTA de registro no Luma
+- 📅 Agenda completa, tiers de patrocinadores e perfis de organizadores gerenciados por arquivos de dados
+- 🎨 Design system customizado com tokens `@theme` do Tailwind v4 (Inter + Lexend)
+- ⚡ Construído com **React 19**, **Vite 8** e **Tailwind CSS v4** — 100% estático, sem backend
 
-### 🎯 [Plugin Agency Website](https://github.com/salvador-castro/plugin-agency)
+### 🎯 [Plugin Agency Website](https://github.com/salvador-castro/plugin-agency) — [Demo ao vivo](https://plugin.uy/)
 Site portfólio moderno e responsivo de uma agência, mostrando trabalhos criativos e serviços.
 
 **Stack:**

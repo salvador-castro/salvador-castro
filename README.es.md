@@ -83,7 +83,7 @@ Plataforma e-commerce completa para una carnicería argentina, con pedidos onlin
 - 📦 Gestión de productos y pedidos
 - 📱 Diseño responsive optimizado para mobile
 
-### 🌟 [ArenaApp](https://github.com/salvador-castro/arenaapp)
+### 🌟 [ArenaApp](https://github.com/salvador-castro/arenaapp) — [Demo en vivo](https://arenapress.app/)
 Plataforma PWA integral para descubrir espacios culturales: galerías, museos, restaurantes y bares. Construida con **Next.js**, **TypeScript**, **TailwindCSS** y **PostgreSQL**.
 
 **Características:**
@@ -92,15 +92,16 @@ Plataforma PWA integral para descubrir espacios culturales: galerías, museos, r
 - 🎨 UI moderna y responsive con modo oscuro
 - 🔐 Panel de administración para gestión de contenido
 
-### 🤖 [WhatsApp Group Creator Bot](https://github.com/salvador-castro/whatsapp-group-creator-bot)
-Herramienta de automatización construida con **Python** y **Selenium** para agilizar la creación y gestión de grupos de WhatsApp.
+### 🟠 [Be Orange](https://github.com/salvador-castro/beorange) — [Demo en vivo](https://beorange.uy/)
+Landing page oficial de **Be Orange — The Bitcoiners Meeting 2026**, el primer encuentro bitcoiner de escala en Uruguay, presentado por Roderich y Plugin Agency.
 
 **Lo más destacado:**
-- 🚀 Creación automatizada de grupos a partir de datos CSV
-- 📊 Gestión masiva de contactos
-- ⚙️ Flujos configurables
+- 🎬 Hero fullscreen inmersivo con video, countdown y CTA de registro a Luma
+- 📅 Agenda completa, tiers de sponsors y perfiles de organizadores manejados por archivos de data
+- 🎨 Sistema de diseño custom con tokens `@theme` de Tailwind v4 (Inter + Lexend)
+- ⚡ Construido con **React 19**, **Vite 8** y **Tailwind CSS v4** — 100% estático, sin backend
 
-### 🎯 [Plugin Agency Website](https://github.com/salvador-castro/plugin-agency)
+### 🎯 [Plugin Agency Website](https://github.com/salvador-castro/plugin-agency) — [Demo en vivo](https://plugin.uy/)
 Sitio portfolio moderno y responsive de una agencia, mostrando trabajos creativos y servicios.
 
 **Stack:**
