@@ -1,6 +1,6 @@
 <div align="center">
 
-**🌐 Leer en:** [English](README.md) · [Español](README.es.md) · [Português](README.pt.md)
+**🌐 Leer en:** [Inglés](README.md) · [Español](README.es.md) · [Portugués](README.pt.md)
 
 # 👋 ¡Hola! Soy Salvador Castro
 
