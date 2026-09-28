@@ -65,8 +65,8 @@ Hey there! I'm **Salvador**, an **Information Systems Engineering** student at *
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salvador-castro&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salvador-castro&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;text_color=C9D1D9" width="48%" />
+<img src="https://readme-stats-phi-sooty.vercel.app/api?username=salvador-castro&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;icon_color=F8D866&amp;text_color=C9D1D9" width="48%" />
+<img src="https://readme-stats-phi-sooty.vercel.app/api/top-langs/?username=salvador-castro&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F85D7F&amp;text_color=C9D1D9" width="48%" />
 
 </div>
 
